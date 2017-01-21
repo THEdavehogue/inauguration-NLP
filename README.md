@@ -1,5 +1,4 @@
-# Donald J. Trump Inauguration
-## Speech Visualization
+# Donald J. Trump Inauguration Speech Visualization
 
 ***This is a non-partisan analysis of President Trump's Inauguration speech. It is in no way intended to disparage or endorse any politician or party.***
 ___
