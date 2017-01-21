@@ -21,8 +21,7 @@ ax.imshow(wc)
 plt.show()
 ```
 
-I think his speech can be summed up in pretty much one word:
-###'Murica
+***President Trump's "America First" philosophy is clearly reflected in his inauguration speech.***
 
 <p align="center">
   <img src="inauguration.png">
