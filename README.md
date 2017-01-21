@@ -2,7 +2,7 @@
 
 ### Speech Visualization
 
-######This is a non-partisan analysis of President Trump's Inauguration speech. It is in no way intended to disparage or endorse any politician or party.
+***This is a non-partisan analysis of President Trump's Inauguration speech. It is in no way intended to disparage or endorse any politician or party.***
 
 As a matter of interest, I wanted to do a little text exploration to see what sorts of things Donald Trump spoke about in his inaugural speech on January 20, 2017.
 
