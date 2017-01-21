@@ -7,6 +7,7 @@ As a matter of interest, I wanted to do a little text exploration to see what so
 
 Using spaCy, I tokenized and lemmatized the words in the speech and removed stop words. Once I removed stop words, I used the `wordcloud` package to create a cloud of the 385 remaining unique words and their respective frequencies.
 
+Here is a python snippet for creating wordclouds (for the curious).
 ```python
 import matplotlib.pyplot as plt
 from wordcloud import WordCloud
