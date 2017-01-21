@@ -4,7 +4,6 @@
 
 As a matter of interest, I wanted to do a little text exploration to see what sorts of things Donald Trump spoke about in his inaugural speech on January 20, 2017.
 
-
 Using spaCy, I tokenized and lemmatized the words in the speech and removed stop words. Once I removed stop words, I used the `wordcloud` package to create a cloud of the 385 remaining unique words and their respective frequencies.
 
 ```python
@@ -19,6 +18,9 @@ ax.axis('off')
 ax.imshow(wc)
 plt.show()
 ```
+
+I think his speech can be summed up in pretty much one word:
+###'Murica
 
 <p align="center">
   <img src="inauguration.png">
