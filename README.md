@@ -2,6 +2,8 @@
 
 ### Speech Visualization
 
+######This is a non-partisan analysis of President Trump's Inauguration speech. It is in no way intended to disparage or endorse any politician or party.
+
 As a matter of interest, I wanted to do a little text exploration to see what sorts of things Donald Trump spoke about in his inaugural speech on January 20, 2017.
 
 Using spaCy, I tokenized and lemmatized the words in the speech and removed stop words. Once I removed stop words, I used the `wordcloud` package to create a cloud of the 385 remaining unique words and their respective frequencies.
